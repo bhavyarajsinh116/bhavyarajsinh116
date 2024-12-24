@@ -1,8 +1,7 @@
 ![logo](https://github.com/bhavyarajsinh116/bhavyarajsinh116/blob/main/github-header-image.png?raw=true)
 <h1 align="center">Hi 👋, I'm Bhavyarajsinh Gohil</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/117a9fe1-943b-4679-8fc4-5dc0e15d040a)
-">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/media/0ed28b734a42d06a96cc57f5d478625c.gif?resize=400x0">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
