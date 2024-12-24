@@ -1,7 +1,8 @@
-![logo]()
+![logo](https://github.com/bhavyarajsinh116/bhavyarajsinh116/blob/main/github-header-image.png?raw=true)
 <h1 align="center">Hi 👋, I'm Bhavyarajsinh Gohil</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://dribbble.com/tags/coding-gif" >
+<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/117a9fe1-943b-4679-8fc4-5dc0e15d040a)
+">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
